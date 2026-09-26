@@ -5,7 +5,7 @@ código en la misma persona: construyo productos digitales de punta a punta, de 
 al deploy.
 
 - Hoy lidero producto digital en **Teletón Chile**.
-- Fundador de **[Divídela](https://dividela.cl)**, un SaaS para restaurantes (en piloto).
+- Fundador de **[Divídela](https://dividela.cl)**, un SaaS para restaurantes, hoy en lanzamiento comercial.
 - Sitio: **[cbustos.com](https://cbustos.com)**
 - Construyo orquestando IA: Next.js, React, TypeScript, Supabase/PostgreSQL, Vercel, Claude API.
 - Producto y growth: estrategia con datos, SEO, SEM, analítica (GA4, Search Console).
